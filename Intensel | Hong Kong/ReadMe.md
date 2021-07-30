@@ -18,4 +18,4 @@ During this intership we faced various difficulties but with proper team work an
   <li> Playing around with CSV Datafiles
 </ul>
 
-Skills I Improved during this Intership : <li>Team Work, <li>Responsibility, <li>Communication Skills, <li>Analytical and Critical Thinking.
+Skills I Improved during this Intership :<li>Team Work, <li>Responsibility, <li>Communication Skills, <li>Analytical and Critical Thinking.
