@@ -1,4 +1,6 @@
-This Code uses Selenium for Automation and Beautiful Soup for web_Scraping.
+Part 1:
+
+In this part we write a Code that uses Selenium for Automation and Beautiful Soup for web_Scraping.
 
 Libraries Used:
 1.selenium
@@ -15,3 +17,18 @@ Methodology:
     Web-scraping to get the details required
     Writing the information into the excel file and saving it.
 # Continues this process for rest of the list.
+
+Part 2:
+
+In this part we write a code for plotting the locations of the companies and CO2 Emissions.
+
+Libraries Used:
+1. Pandas
+2. GeoPandas
+3. Matplotlib
+
+# First,using pandas we read the excel file and get the data from it.
+# Then, using GeoPandas Libraries we create a GeoDataFrame of the data which you want (i.e. Locations and CO2 emission Columns)
+# Later plot them on map using geopandas and matplotlib.
+
+And Finally Convert all the the data into CSV files.
