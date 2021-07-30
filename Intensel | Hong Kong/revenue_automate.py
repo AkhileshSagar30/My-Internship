@@ -33,6 +33,7 @@ for r in range(15,21):
         # mar = driver.find_element_by_class_name("price-row-price")
         try:
             market_cap = soup1.select('.price-row-price')[2].text
+            
         except:
             market_cap = 'No Value'  # print('This is The Market Capitalization: ',market_cap)  # Market Cap is String
         driver.quit()
